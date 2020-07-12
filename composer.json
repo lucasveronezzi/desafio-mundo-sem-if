@@ -1,0 +1,15 @@
+{
+    "name": "lucas/bnw-desafios-encontro-01-lucas",
+    "authors": [
+        {
+            "name": "Lucas Veronezzi",
+            "email": "lucas.veronezzi@buenonetworks.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lucas\\": "src"
+        }
+    }
+}
